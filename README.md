@@ -1,4 +1,2 @@
 # AnimalStore
 Animal Store Assignment
-
-...
